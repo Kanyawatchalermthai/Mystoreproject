@@ -18,7 +18,7 @@ const Menu = () => {
 
     return (  
         <nav className="Menu">
-            <h1>Lily Lane Blooms ✿</h1>
+            <h1>Sweet Sweet</h1>
             <div className="links">
                 { auth ? (<a onClick={() => handleClick('/addProduct')}>Add Product</a>) : (<a style={{visibility: "hidden"}} onClick={() => handleClick('/addProduct')}>Add Product</a>) }
                 <a onClick={() =>handleClick('/')}>Home</a> 

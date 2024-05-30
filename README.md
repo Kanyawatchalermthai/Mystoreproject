@@ -5,5 +5,5 @@
 - ณหทัย	  บุญรอด	(6409682686)
 # Page & Features
 1. LOGIN
-username : admin
-password : password
+-username : admin
+-password : password

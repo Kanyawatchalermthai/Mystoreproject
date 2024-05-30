@@ -1,15 +1,8 @@
-# Mystoreproject
-# Member
-- กัลยวรรธน์ เฉลิมไทย (6409490056)
-- บัวชมพู	ประถานัง	(6409610646)
-- ณหทัย	  บุญรอด	(6409682686)
-# Page & Features
-# 1. Login
-สามารถเข้าสู่ระบบโดยใส่ Username และ Password
-- Username : admin
-- Password : password
-#  Login Successful
-# 2. Product Details 
-สามารถดูข้อมูลของสินค้าได้ที่การกดเข้าไปที่สินค้า
-# 3. Add Product
-สามารถเพิ่มข้อมูลของสินค้า(ชื่อ,ราคา,ข้อมูลเพิ่มเติิม,หมวดหมูของขนม,รูปภาพของขนม)
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

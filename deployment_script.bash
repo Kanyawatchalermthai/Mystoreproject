@@ -20,7 +20,7 @@ sudo npm install pm2 -g
 cd /home/ec2-user
 
 # Clone the repository
-git clone -b main https://github.com/Chayanon6409682538/CS369ClassProject_chayanon-napat.git
+git clone -b main https://github.com/Kanyawatchalermthai/Mystoreproject.git
 
 # Navigate to the project directory and install dependencies
 cd CS369ClassProject_chayanon-napat
